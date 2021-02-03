@@ -34,7 +34,7 @@ CSS：表现（美化网页）
 
 字体，颜色，边距，高度，宽度，背景图片，网页定位，网页浮动
 
-![image-20210122201938827](CSS%E5%AD%A6%E4%B9%A0.assets/image-20210122201938827.png)
+![image-20210122201938827](https://i.loli.net/2021/02/04/phiF6OzGRnUdjIl.png)
 
 ### 1.2发展史
 
@@ -334,7 +334,7 @@ body>p{
 
 
 
-![image-20210122214642769](CSS%E5%AD%A6%E4%B9%A0.assets/image-20210122214642769.png)
+![image-20210122214642769](https://i.loli.net/2021/02/04/6AUwkcpufamCoWB.png)
 
 
 
